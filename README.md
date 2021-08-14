@@ -6,4 +6,4 @@ DO NOT RE UPLOAD
 You MAY edit, just give credits.
 That's it!
 
-Just drag and drop the folder into your resources folder, then start "busycommands"
+Just drag and drop the folder into your resources folder, then start "busycommands".
