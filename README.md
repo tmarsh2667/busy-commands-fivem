@@ -1,4 +1,4 @@
-# busy-commands-fivem
+# busy-commands-fivem V2
 These commands show the following
 /policebusy - Sends a message showing that LEO are Busy
 /firebusy - Sends a message showing that SAFR are Busy
