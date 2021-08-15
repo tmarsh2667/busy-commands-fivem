@@ -1,0 +1,7 @@
+UPDATE (15/08/2021) (AUS DATES)
+
+- Seperated FIRE & EMS From both being unavailable
+- Added 4 new commands (TOWACTIVE // TOWBUSY // EMSACTIVE // SAFRACTIVE)
+- Changed all to bold text
+- Changed wording around
+- Added guides for editing in the server.lua file
